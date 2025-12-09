@@ -4,6 +4,7 @@
 React + React Router + styled-components를 사용해 화면을 구성하고, `axios`로 백엔드 API와 통신하도록 설계된 프론트엔드 프로젝트입니다.
 
 > 이 레포지토리는 **React 기반 포트폴리오 프로젝트(TravelHub)**의 프론트엔드 코드만 포함하고 있습니다.
+> 자세한 UX 흐름 및 화면 와이어프레임은 **`TravelHub포트폴리오.pdf`** 에 정리되어 있습니다.
 
 <img width="1025" height="619" alt="Image" src="https://github.com/user-attachments/assets/f43328b6-2629-487d-b3b1-30fe4a73b247" />
 
@@ -133,5 +134,3 @@ npm start
    * 메인 페이지에서 **새 글 작성 버튼**을 통해 글 작성 페이지로 이동
    * 자신의 게시글 상세 페이지에서 **수정 버튼**을 통해 수정 페이지로 이동
 4. 작성/수정 완료 시 해당 게시글 상세 페이지 또는 메인 페이지로 이동하여 변경사항 확인
-
-자세한 UX 흐름 및 화면 와이어프레임은 **`TravelHub포트폴리오.pdf`** 에 정리되어 있습니다.
