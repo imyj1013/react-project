@@ -5,6 +5,8 @@ React + React Router + styled-components를 사용해 화면을 구성하고, `a
 
 > 이 레포지토리는 **React 기반 포트폴리오 프로젝트(TravelHub)**의 프론트엔드 코드만 포함하고 있습니다.
 
+<img width="1025" height="619" alt="Image" src="https://github.com/user-attachments/assets/f43328b6-2629-487d-b3b1-30fe4a73b247" />
+
 ---
 
 ## 주요 기능
